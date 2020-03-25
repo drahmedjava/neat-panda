@@ -3,7 +3,7 @@ subtitle: |-
   Nibh sed aliquam, cursus arcu aliquet  
   natoque rhoncus ut non in Aliquet
 actions:
-  - label: Download
+  - label: download me please
     icon: fa-download
     url: /elements
     is_primary: true
